@@ -23,6 +23,10 @@ class ViewController: UIViewController {
     func showName(){
         print("My Name is omar")
     }
+    
+    func DeleterName(){
+        print("name Deleted")
+    }
 
 
 }
